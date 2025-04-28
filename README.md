@@ -5,6 +5,12 @@ How to use
 First their is the library requirements
 pandas, re, pytorch, transformers, tensorflow, sklearn, matplotlib, tqdm
 
+Also, to run the Kaggle files (They are the ones without a tag like, Liar or News sample)
+then you can either go here
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv
+to get the real files or remove the words truncated from the true.csv and false.csv
+Sorry for the difficulty, but the files where to gig for discord.
+
 after that make sure that these files are in the same directory
 
 The data folder has to be in the same folder as all the exactuables
